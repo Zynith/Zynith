@@ -29,7 +29,7 @@ World Quant University Applied Data Science Lab
 
 ## :point_down: Projects & Learnings :point_down:
 
-Click [here](https://github.com/Zynith/DataSciencePortfolio) for my projects & [here](https://github.com/Zynith/Data-Science-Learnings) for my course learnings. 
+Click here for my [projects](https://github.com/Zynith/DataSciencePortfolio) & here for my course [learnings](https://github.com/Zynith/Data-Science-Learnings). 
 
 ## :sunglasses: Fun Fact :sunglasses:
 
