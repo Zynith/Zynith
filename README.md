@@ -15,7 +15,7 @@ Tools: Excel, Power Bi, Python, SQL
 
 Data Science Techniques: Data Cleansing, Data Visualization, Data Analysis and Dashboard Design and Development
 
-Skills: Inquisitive questioning that enable insights to drive data centered decision making processes.
+Skills: Employs inquisitive questioning that create insights to drive data centered decision making.
 
 ## :zap: I'm currently working on :zap:
 
