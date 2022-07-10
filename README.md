@@ -21,15 +21,15 @@ Skills: Employs inquisitive questioning that create insights to drive data cente
 
 Improving my skills in data cleansing, wrangling and statistical analysis.
 
-[Pandas Crash Course](https://github.com/Zynith/Pandas-Crash-Course)
+__[Pandas Crash Course](https://github.com/Zynith/Pandas-Crash-Course)__
 
-[Python for Statistical Analysis](https://github.com/Zynith/Python-Statistical-Analysis)
+__[Python for Statistical Analysis](https://github.com/Zynith/Python-Statistical-Analysis)__
 
 World Quant University Applied Data Science Lab
 
 ## :point_down: Projects & Learnings :point_down:
 
-Click here for my [projects](https://github.com/Zynith/DataSciencePortfolio) & here for my course [learnings](https://github.com/Zynith/Data-Science-Learnings). 
+Click here for my __[projects](https://github.com/Zynith/DataSciencePortfolio)__ & here for my course __[learnings](https://github.com/Zynith/Data-Science-Learnings)__. 
 
 ## :sunglasses: Fun Fact :sunglasses:
 
@@ -37,9 +37,9 @@ I have a passion for designing presentations using Power Point and video editing
 
 :point_down: Connect with me :point_down:
  
- Discord: Pyrial#2368
+ Discord: __Pyrial#2368__
  
- Email: Pyrial@gmail.com
+ Email: __Pyrial@gmail.com__
 
 
 
