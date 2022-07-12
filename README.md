@@ -31,11 +31,11 @@ World Quant University Applied Data Science Lab
 
 Click here for my __[projects](https://github.com/Zynith/DataSciencePortfolio)__ & here for my course __[learnings](https://github.com/Zynith/Data-Science-Learnings)__. 
 
-## :sunglasses: Fun Fact :sunglasses:
+## :sunglasses: Fun Facts :sunglasses:
 
 I have a passion for designing presentations using Power Point and video editing.
 
-:point_down: Connect with me :point_down:
+## :point_down: Connect with me :point_down:
  
  Discord: __Pyrial#2368__
  
