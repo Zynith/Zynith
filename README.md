@@ -21,7 +21,6 @@ Skills: Employs inquisitive questioning that create insights to drive data cente
 
 Improving my skills in data cleansing, wrangling and statistical analysis.
 
-__[Pandas Crash Course](https://github.com/Zynith/Pandas-Crash-Course)__
 
 __[Python for Statistical Analysis](https://github.com/Zynith/Python-Statistical-Analysis)__
 
