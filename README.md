@@ -2,8 +2,6 @@
 
 My name is Frantz. 
 
-I am a self-taught data analyst. 
-
 Finance Graduate turning to Data Science.
 
 
