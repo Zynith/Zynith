@@ -2,7 +2,7 @@
 
 My name is Frantz. 
 
-Finance Graduate turning to Data Science.
+Finance Graduate with an interest in Data Science.
 
 
 
@@ -13,24 +13,20 @@ Tools: Excel, Power Bi, Python, SQL
 
 Data Science Techniques: Data Cleansing, Data Visualization, Data Analysis and Dashboard Design and Development
 
-Skills: Employs inquisitive questioning that create insights to drive data centered decision making.
+Unique Skill: Employs inquisitive questioning that create insights to drive data centered decision-making and communicating impactfully with data storytelling.
 
 ## :zap: I'm currently working on :zap:
 
-Improving my skills in data cleansing, wrangling and statistical analysis.
+Improving my skills in data wrangling, Mathematics, statistical analysis and Python.
 
-
-__[Python for Statistical Analysis](https://github.com/Zynith/Python-Statistical-Analysis)__
-
-World Quant University Applied Data Science Lab
 
 ## :point_down: Projects & Learnings :point_down:
 
-Click here for my __[projects](https://github.com/Zynith/DataSciencePortfolio)__ & here for my course __[learnings](https://github.com/Zynith/Data-Science-Learnings)__. 
+Click here for my __[projects](https://github.com/Zynith/DataSciencePortfolio)__. 
 
 ## :sunglasses: Fun Facts :sunglasses:
 
-I have a passion for designing presentations using Power Point and video editing.
+I have a passion for designing presentations using Power Point.
 
 ## :point_down: Connect with me :point_down:
  
